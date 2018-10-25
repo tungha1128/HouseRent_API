@@ -1,0 +1,22 @@
+{
+  "name": "houserent_core_api",
+  "version": "1.0.0",
+  "description": "api for app houserent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungha1128/HouseRent_API.git"
+  },
+  "keywords": [
+    "houserent"
+  ],
+  "author": "tungnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungha1128/HouseRent_API/issues"
+  },
+  "homepage": "https://github.com/tungha1128/HouseRent_API#readme"
+}
